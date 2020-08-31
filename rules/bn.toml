@@ -1,14 +1,14 @@
 min_trimmed_length = 3
 min_word_count = 1
 max_word_count = 16
-min_characters = 2
+min_characters = 5
 may_end_with_colon = false
 quote_start_with_letter = true
 needs_punctuation_end = false
 needs_letter_start = true
 needs_uppercase_start = false
 disallowed_symbols = [
-  '<', '>', '+', '*', '\', '#', '@', '^', '[', ']', '(', ')', '/',
+  '.', '<', '>', '+', '*', '\', '#', '@', '^', '[', ']', '(', ')', '/',
   'é', 'è', 'à', 'ç', 'Å',
   'α', 'β', 'Γ', 'γ', 'Δ', 'δ', 'ε', 'ζ', 'η', 'Θ', 'θ', 'ι', 'κ',
   'Λ', 'λ', 'μ', 'ν', 'Ξ', 'ξ', 'Π', 'π', 'ρ', 'Σ', 'σ', 'ς', 'τ',
